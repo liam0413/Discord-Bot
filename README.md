@@ -4,18 +4,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Corwindev/Discord-Bot"><img src="https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=flat-square&label=Version" alt="Version"></a>
-  <a href="https://github.com/Corwindev/Discord-Bot/graphs/contributors"><img src="https://img.shields.io/github/contributors/CorwinDev/Discord-Bot?style=flat-square&label=Contributors" alt="Contributors"></a>
-  <a href="https://github.com/Corwindev/Discord-Bot/network/members"><img src="https://img.shields.io/github/forks/Corwindev/Discord-Bot?style=flat-square&label=Forks" alt="Forks"></a>
-  <a href="https://github.com/Corwindev/Discord-Bot/stargazers"><img src="https://img.shields.io/github/stars/Corwindev/Discord-Bot?style=flat-square&label=Stars" alt="Stars"></a>
-  <a href="https://github.com/Corwindev/Discord-Bot/issues"><img src="https://img.shields.io/github/issues/Corwindev/Discord-Bot?style=flat-square&label=Issues" alt="Issues"></a>
-  <a href="https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Corwindev/Discord-Bot?style=flat-square&label=License" alt="License"></a>
+  <a href="https://github.com/Liam0413/Discord-Bot"><img src="https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=flat-square&label=Version" alt="Version"></a>
+  <a href="https://github.com/Liam0413/Discord-Bot/graphs/contributors"><img src="https://img.shields.io/github/contributors/CorwinDev/Discord-Bot?style=flat-square&label=Contributors" alt="Contributors"></a>
+  <a href="https://github.com/Liam0413/Discord-Bot/network/members"><img src="https://img.shields.io/github/forks/Liam0413/Discord-Bot?style=flat-square&label=Forks" alt="Forks"></a>
+  <a href="https://github.com/Liam0413/Discord-Bot/stargazers"><img src="https://img.shields.io/github/stars/Liam0413/Discord-Bot?style=flat-square&label=Stars" alt="Stars"></a>
+  <a href="https://github.com/Liam0413/Discord-Bot/issues"><img src="https://img.shields.io/github/issues/Liam0413/Discord-Bot?style=flat-square&label=Issues" alt="Issues"></a>
+  <a href="https://github.com/Liam0413/Discord-Bot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Corwindev/Discord-Bot?style=flat-square&label=License" alt="License"></a>
 </p>
 
 
 <p align="center">
-  <a href="https://replit.com/@CorwinDeveloper/Discord-Bot-v14?v=1"><img src="https://repl.it/badge/github/CorwinDev/Discord-Bot" alt="Run on Repl.it"></a>
-  <a href="https://glitch.com/edit/#!/import/github/CorwinDev/Discord-Bot"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
+  <a href="https://replit.com/@Liam0413/Discord-Bot-v14?v=1"><img src="https://repl.it/badge/github/CorwinDev/Discord-Bot" alt="Run on Repl.it"></a>
+  <a href="https://glitch.com/edit/#!/import/github/Liam0413/Discord-Bot"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
 </p>
 
 <br>
@@ -33,14 +33,6 @@
 >  **Discord-Bot is a powerhouse built with Discord.js v14**. If you find this project useful, please give it a star ⭐! It helps keep me motivated!
 
 <!-- ABOUT THE PROJECT -->
-
-## 🚀 Elevate Your Discord Server
-<p align="center">
-  <a href="https://github.com/corwindev/discord-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight" alt="Readme Card">
-  </a>
-</p>
-
 
 Discord-Bot is not just another bot; it's a fully loaded toolkit for managing and enriching your Discord community. Originally inspired by the legacy of Dbot, this version has been meticulously updated to offer you a vast array of features and a seamless experience.
 
@@ -87,11 +79,6 @@ Before you start, you'll need:
     ```bash
     node src/index.js
     ```
-
-## 🤝 Support & Community
-[![Discord Banner](https://invidget.switchblade.xyz/techpoint-1016942011024158782)](https://discord.gg/techpoint-1016942011024158782)
-
-Join our [Support Server](https://discord.gg/techpoint-1016942011024158782) for help, updates, and discussions about Discord-Bot.
 
 ## 🤔 FAQ
 > **How do I get access to Developer Commands?**  You will need to configure them via MongoDB or by running the command: `npm run add-dev YOUR_Discord_ID`

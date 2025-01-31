@@ -35,11 +35,6 @@ Discord-Bot is not just another bot; it's a fully loaded toolkit for managing an
 * **Public Bot Available:**  Don't want to host?  [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
 * **And Much More!**  Explore the extensive functionality to discover even more features.
 
-## 🖼️ Screenshots
-<p align="center">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png" alt="Discord-Bot Screenshot">
-</p>
-
 ## 🛠️ Installation & Setup
 ### ⚙️ Requirements
 Before you start, you'll need:

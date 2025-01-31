@@ -11,18 +11,6 @@
   <a href="https://github.com/Liam0413/Discord-Bot/issues"><img src="https://img.shields.io/github/issues/Liam0413/Discord-Bot?style=flat-square&label=Issues" alt="Issues"></a>
   <a href="https://github.com/Liam0413/Discord-Bot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Corwindev/Discord-Bot?style=flat-square&label=License" alt="License"></a>
 </p>
-
-
-<p align="center">
-  <a href="https://replit.com/@Liam0413/Discord-Bot-v14?v=1"><img src="https://repl.it/badge/github/CorwinDev/Discord-Bot" alt="Run on Repl.it"></a>
-  <a href="https://glitch.com/edit/#!/import/github/Liam0413/Discord-Bot"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
-</p>
-
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=header&text=Discord-Bot&fontSize=50&fontAlignY=25&animation=twinkling&fontColor=gradient" alt="Discord-Bot Header">
-</p>
-
 <br>
 
 
@@ -67,7 +55,7 @@ Before you start, you'll need:
 ### 🚀 Getting Started
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Corwindev/Discord-Bot.git
+    git clone https://github.com/Liam0413/Discord-Bot.git
     ```
 2. **Configure Environment:**
     - Rename `.env.example` to `.env` and fill in all the required API keys, tokens, and URLs.
@@ -85,5 +73,3 @@ Before you start, you'll need:
 
 ## ❤️ Support the Project
   Your support keeps this project alive!
-
-   [Sponsor](https://github.com/sponsors/CorwinDev)

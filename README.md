@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://github.com/corwindev/Discord-Bot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/Corwin-1-modified.png" alt="Discord-Bot" width="150">
-  </a>
   <h1 align="center">Discord-Bot: The Ultimate Multipurpose Discord Bot</h1>
   <h3 align="center">An enhanced, feature-rich Discord bot for your community</h3>
 </p>
